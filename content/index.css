@@ -1,0 +1,20 @@
+body{
+background:rgb(204, 208, 246);
+}
+
+.container1 {
+    border: 2px solid #dedede;
+    background:rgb(146, 178, 243);
+    border-color: #4a4646;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    
+  }
+
+  .container1:hover{
+    background:rgb(173,157,251);
+  }
+  strong{
+    color: #4a4646;
+  }
